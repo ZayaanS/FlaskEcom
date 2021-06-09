@@ -3,9 +3,9 @@ _______________________________________
 
 DB MODELS
 USER
-- user model creates user object
-- user crud 
-- prettier_budget method works as expected
+x user model creates user object
+x user crud 
+x prettier_budget method works as expected
 - password method works as expected
 - password setter method works as expected
 - check password correction method works as expected
